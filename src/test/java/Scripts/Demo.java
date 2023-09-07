@@ -7,6 +7,6 @@ public class Demo {
 
 public void demo()
 {
-	System.out.println("Hi Demo page");
+	System.out.println("Hi Demo page1");
 }
 }
